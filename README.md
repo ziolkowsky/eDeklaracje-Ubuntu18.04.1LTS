@@ -193,4 +193,4 @@ Adobe AIR application could not be installed. Debian tools for creating deb pack
 ```
 
 ### C.D.N.
-Problem z instalacją e-deklaracji : https://askubuntu.com/questions/913892/how-to-install-scratch-2-on-ubuntu-16-10-or-17-04-64bit
+Problem z instalacją e-deklaracji. Możliwe rozwiązanie:  https://askubuntu.com/questions/913892/how-to-install-scratch-2-on-ubuntu-16-10-or-17-04-64bit
