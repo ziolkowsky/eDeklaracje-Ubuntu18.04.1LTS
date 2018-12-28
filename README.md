@@ -2,6 +2,7 @@
 
 
 ## Krok 1: Pobieranie i instalacja pakietu Adobe Air
+### Polecenie:
 ```
 wget -O adobe-air_amd64.deb http://drive.noobslab.com/data/apps/AdobeAir/adobeair_2.6.0.2_amd64.deb
 ```
