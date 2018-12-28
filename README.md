@@ -6,9 +6,11 @@
 ```
 wget -O adobe-air_amd64.deb http://drive.noobslab.com/data/apps/AdobeAir/adobeair_2.6.0.2_amd64.deb
 ```
-  [Command] sudo dpkg -i adobe-air_amd64.deb
-    [Problem] Output: 
-      Selecting previously unselected package adobeair.
+```
+ sudo dpkg -i adobe-air_amd64.deb
+```
+```
+Selecting previously unselected package adobeair.
       (Reading database ... 182067 files and directories currently installed.)
       Preparing to unpack adobe-air_amd64.deb ...
       Unpacking adobeair (1:2.6.0.2) ...
@@ -21,6 +23,7 @@ wget -O adobe-air_amd64.deb http://drive.noobslab.com/data/apps/AdobeAir/adobeai
        adobeair depends on libxml2:i386.
        adobeair depends on libxaw7:i386.
        adobeair depends on libxslt1.1:i386. 
+```
   [Command] sudo apt-get install libbz2-1.0:i386 -y
     [Problem] Output: 
       Selecting previously unselected package adobeair.
