@@ -1,8 +1,10 @@
-# How to install e-Deklaracje app at Ubuntu 18.04.1 LTS x64 
+# Instalacja aplikacji  e-Deklaracje w systemie Ubuntu 18.04.1 LTS x64 
 
 
-## Step 1: Download and install Adobe Air package
-  [Command] wget -O adobe-air_amd64.deb http://drive.noobslab.com/data/apps/AdobeAir/adobeair_2.6.0.2_amd64.deb
+## Krok 1: Pobieranie i instalacja pakietu Adobe Air
+```
+wget -O adobe-air_amd64.deb http://drive.noobslab.com/data/apps/AdobeAir/adobeair_2.6.0.2_amd64.deb
+```
   [Command] sudo dpkg -i adobe-air_amd64.deb
     [Problem] Output: 
       Selecting previously unselected package adobeair.
