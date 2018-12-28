@@ -77,8 +77,8 @@ E: Unmet dependencies. Try 'apt --fix-broken install' with no packages (or speci
 ```
 sudo apt-get install libbz2-1.0:i386 libc6:i386 libgtk2.0-0:i386 libnss3:i386 libstdc++6:i386 libxml2:i386 libxaw7:i386 libxslt1.1:i386 libatk1.0-0:i386 libcairo2:i386 libgcc1:i386 libcups2:i386 libfontconfig1:i386 libgdk-pixbuf2.0-0:i386 libglib2.0-0:i386 libpango-1.0-0:i386 libpangocairo-1.0-0:i386 libpangoft2-1.0-0:i386 libx11-6:i386 libxcomposite1:i386 libxcursor1:i386 libxdamage1:i386 libxext6:i386 libxfixes3:i386 libxi6:i386 libxinerama1:i386 libxrandr2:i386 libxrender1:i386 libgail-common:i386 libnspr4:i386 libsqlite3-0:i386 gcc-8-base:i386 libgcc1:i386 libx11-6:i386 libxext6:i386 libxmu6:i386 libxpm4:i386 libxt6:i386 libicu60:i386 liblzma5:i386 zlib1g:i386 libgcrypt20:i386 
 ```
-
 ### Niespełnione zależności epizod 3
+```
 Reading package lists... Done
 Building dependency tree 
 Reading state information... Done
